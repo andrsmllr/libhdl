@@ -1,4 +1,4 @@
 `ifndef LIBHDL_GLOBAL
 `define LIBHDL_GLOBAL
-`defaultnettype none
+`default_nettype none
 `endif
